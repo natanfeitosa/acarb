@@ -1,0 +1,25 @@
+@use "sass:math";
+
+$custom-control-indicator-size: 1rem;
+
+$custom-control-indicator-bg-size: $custom-control-indicator-size * 0.2;
+
+$b-custom-control-indicator-size-sm: $custom-control-indicator-size / 2;
+$b-custom-control-indicator-size-lg: $custom-control-indicator-size * 2;
+
+$custom-control-gutter: 1rem;
+
+$custom-radio-indicator-border-radius: 1rem;
+
+$custom-control-indicator-border-width: 1rem;
+
+$input-line-height-lg: 2.5;
+$input-line-height-sm: math.div($input-line-height-lg, 2);
+
+$table-dark-hover-bg: $dark;
+
+$alert-bg-level: $gray-200;
+$alert-color-level: currentColor;
+$alert-border-level: 1px;
+
+$enable-pointer-cursor-for-buttons: true;
