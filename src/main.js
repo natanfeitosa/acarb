@@ -1,7 +1,7 @@
 import Vue from 'vue'
 
 import { BootstrapVue } from 'bootstrap-vue'
-// import VueGtag from 'vue-gtag'
+import VueGtag from 'vue-gtag'
 // import VueMeta from 'vue-meta'
 
 // import { FirebaseVue } from './firebase'
@@ -21,13 +21,13 @@ Vue.config.productionTip = false
 //   refreshOnceOnNavigation: true
 // })
 
-// Vue.use(VueGtag, {
-//   config: {
-//     id: 'G-E1WPD7FH61',
-//   },
-//   appName: 'Acarb',
-//   pageTrackerScreenviewEnabled: true,
-// }, router)
+Vue.use(VueGtag, {
+  config: {
+    id: 'G-E1WPD7FH61',
+  },
+  appName: 'Acarb',
+  pageTrackerScreenviewEnabled: true,
+}, router)
 
 Vue.use(BootstrapVue)
 // Vue.use(FirebaseVue)
