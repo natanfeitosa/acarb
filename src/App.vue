@@ -34,7 +34,7 @@
 
             <b-list-group flush>
               <b-list-group-item>Barbalha - Ceará</b-list-group-item>
-              <b-list-group-item>Temporariamente sem endereço</b-list-group-item>
+              <!-- <b-list-group-item>Temporariamente sem endereço</b-list-group-item> -->
             </b-list-group>
 
             <b-card-footer>
