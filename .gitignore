@@ -2,6 +2,8 @@
 .DS_Store
 node_modules
 
+# output 
+dist
 
 # local env files
 .env.local

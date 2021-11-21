@@ -59,16 +59,6 @@
                   <strong itemprop="jobTitle">presidente</strong>
                 </span>
               </b-list-group-item>
-              <b-list-group-item itemscope itemtype="http://schema.org/Person">
-                <a href="tel:+558881481364" itemprop="telephone">+55 88 8148-1364</a>
-                <br/>
-                <span>
-                  <span itemprop="name">
-                    Marcelo
-                  </span>
-                  -
-                  <strong itemprop="jobTitle">vice-presidente</strong>
-                </span>              </b-list-group-item>
               <b-list-group-item>
                 <a href="mailto:cordeirofeitosajesualdo@gmail.com">cordeirofeitosajesualdo@gmail.com</a>
               </b-list-group-item>
