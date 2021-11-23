@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.67b4585488c25cabc2691546c5943c91.js"
+  "precache-manifest.5afece3f6336a1abc95efce3520fe2d2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "acarb"});
